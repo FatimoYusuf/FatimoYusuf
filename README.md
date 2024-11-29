@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FatimoYusuf
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning css
-- 💞️ I’m looking to collaborate on a a frontend project
+- 👀 I’m interested in Data Science, Analysis, Blockchain and Web Dev
+- 🌱 I’m proficient in R, Python, Excel, SQL, Power BI, Tableau
+- 💞️ I’m looking forward to collaborate on a Data Science and analysis project
 - 📫 How to reach me .. through Gmail @fatimoomowunmi270@gmail.com
 
 <!---
