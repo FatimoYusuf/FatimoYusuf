@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FatimoYusuf
 - 👀 I’m interested in Data Analytics,Data Engineering, and Blockchain
-- 🌱 I’m proficient in R, Python, Excel, SQL, Power BI
-- 💞️ I’m looking forward to collaborate on a Data Science and analysis project
+- 🌱 I’m proficient in R, Python, Excel, SQL, Power BI, Tableau, Mongodb, Docker
+- 💞️ I’m looking forward to collaborate on a pipeline, Data Science and analysis project
 - 📫 How to reach me .. through Gmail @fatimomowunmi270@gmail.com
 
 <!---
