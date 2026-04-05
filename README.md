@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @FatimoYusuf
-- 👀 I’m interested in Data Analytics,Data Engineering, and Blockchain
-- 🌱 I’m proficient in R, Python, Excel, SQL, Power BI, Tableau, Mongodb, Docker
-- 💞️ I’m looking forward to collaborate on a pipeline, Data Science and analysis project
-- 📫 How to reach me .. through Gmail @fatimomowunmi270@gmail.com
+👋 Hi, I'm Fatimo Yusuf — Data Analyst based in Lagos, Nigeria
 
-<!---
-FatimoYusuf/FatimoYusuf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔬 I build data pipelines, dashboards, and ML models that solve real business problems.
+
+🚀 Latest Project: German Credit Risk Predictor
+→ Ensemble ML model (72% accuracy) • Live Streamlit app deployed
+→ github.com/FatimoYusuf/German_Credit_Risk_Analysis
+
+🛠 Stack: Python · SQL · Power BI · Tableau · Scikit-learn · Streamlit
+🏆 Microsoft Certified Power BI Data Analyst (PL-300)
+📚 Stanbic IBTC DISEP 5.0 — Financial Analytics Training
+
+📫 fatimomowunmi270@gmail.com
+💼 linkedin.com/in/fatimoyusuf
+
+Open to Data Analyst roles and opportunities
